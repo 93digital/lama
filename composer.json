@@ -1,8 +1,8 @@
 {
-    "name": "93digital/lama",
+    "name": "93devs/lama",
     "version": "master",
     "dist": {
-        "url": "git@bitbucket.org:93digital/lama.git",
+        "url": "git@bitbucket.org:vicLobins93/lama.git",
         "type": "git"
     },
     "autoload": {
