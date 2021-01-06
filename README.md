@@ -11,7 +11,7 @@ LAMA _(Italian word for BLADE)_ is a utility class that helps you to quickly imp
 Run the following command in your terminal to install Lama with [Composer](https://getcomposer.org/)
 
 ```bash
-$ composer require "93digital/lama @dev"
+$ composer require "93devs/lama @dev"
 ```
 
 Below is a basic example of getting started with the class, though your setup may be different depending on how you are using composer.

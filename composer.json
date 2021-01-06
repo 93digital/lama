@@ -1,7 +1,9 @@
 {
     "name": "93devs/lama",
     "description": "93digital Lama Utility",
+    "version": "master",
     "minimum-stability": "dev",
+    "license": "MIT",
     "dist": {
         "url": "git@bitbucket.org:vicLobins93/lama.git",
         "type": "git"
