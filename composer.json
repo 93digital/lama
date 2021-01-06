@@ -1,0 +1,12 @@
+{
+    "name": "93digital/lama",
+    "version": "master",
+    "dist": {
+        "url": "git@bitbucket.org:93digital/lama.git",
+        "type": "git"
+    },
+    "autoload": {
+        "classmap": ["class-lama.php"],
+        "exclude-from-classmap": ["phpcs.xml"]
+    }
+}

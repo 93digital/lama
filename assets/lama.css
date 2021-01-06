@@ -1,0 +1,29 @@
+.lama__dropdown__list {
+  max-height: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.25s ease;
+  overflow: hidden;
+}
+
+.lama__dropdown__list__items {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lama__dropdown__list__item {
+  padding: 0;
+  margin: 0;
+}
+
+.lama__dropdown.visible .lama__dropdown__list {
+  max-height: var(--max-height);
+  opacity: 1;
+  pointer-events: auto;
+  overflow: auto;
+}
+
+.lama-posts-found.hidden {
+  display: none;
+}
