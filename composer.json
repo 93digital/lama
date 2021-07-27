@@ -4,12 +4,19 @@
     "version": "master",
     "minimum-stability": "dev",
     "license": "MIT",
-    "dist": {
-        "url": "git@bitbucket.org:vicLobins93/lama.git",
-        "type": "git"
-    },
     "autoload": {
-        "classmap": ["class-lama.php"],
-        "exclude-from-classmap": ["phpcs.xml"]
-    }
+        "classmap": [
+            "class-lama.php"
+        ],
+        "exclude-from-classmap": [
+            "phpcs.xml"
+        ]
+    },
+    "authors": [
+        {
+            "name": "93digital",
+            "email": "info@93digital.co.uk",
+            "homepage": "https://93digital.co.uk/"
+        }
+    ]
 }
