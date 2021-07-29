@@ -1,5 +1,3 @@
-# *PLEASE NOTE: This repository is now deprecated and no longer supported.*
-
 # Lama 
 
 LAMA _(Italian word for BLADE)_ is a utility class that helps you to quickly implement the _Load More_ & _dynamic filtering_ functionality in WordPress.
